@@ -1,0 +1,14 @@
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\bin\Debug\net8.0\milijunas.exe
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\bin\Debug\net8.0\milijunas.deps.json
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\bin\Debug\net8.0\milijunas.runtimeconfig.json
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\bin\Debug\net8.0\milijunas.dll
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\bin\Debug\net8.0\milijunas.pdb
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.AssemblyInfo.cs
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.dll
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\refint\milijunas.dll
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.pdb
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\milijunas.genruntimeconfig.cache
+C:\Users\leona\Desktop\Vice\Projekti\milijunas\obj\Debug\net8.0\ref\milijunas.dll
